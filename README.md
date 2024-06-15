@@ -1,0 +1,5 @@
+- 👋 Hi, this is the Github account for @PageMeku, a startup company which founded on March 15, 2024.
+- 👀 @PageMeku is aiming to deliver a platform which support novel or any genre books reading, posting and selling by chapter.
+- 🌱 The platform is under developing.
+- 💞️ Welcome for engineers, programers who is interesting in this project.
+- 📫 Feel free to contact us via contactus@pagemeku.com or directly at Github.
